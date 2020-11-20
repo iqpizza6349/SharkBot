@@ -1,0 +1,6 @@
+discord.py
+asyncio
+requests
+openpyxl
+bs4
+datetime
